@@ -1,1 +1,12 @@
+---
+title: "csv de cirrosis"
+author: "Napa Melo jair jesus"
+format: html
+editor: visual
+---
 
+## Caso de cirrosis 
+
+```{r}
+data<- read_csv("C:/Users/jesus/Downloads/cirrosis (1).csv")
+```
